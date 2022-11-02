@@ -24,7 +24,7 @@ namespace timetable_telegram_bot
 
         public Bot()
         {
-            const string botToken = "5335802407:AAEfoIahmspFothQe8cSWo_oH_x13AM26Ik";
+            const string botToken = "";
             _bot = new TelegramBotClient(botToken);
         }
 
